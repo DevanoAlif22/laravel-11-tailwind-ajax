@@ -60,4 +60,8 @@ class FrontController extends Controller
             ], 404); // HTTP 404 Not Found
         }
     }
+
+    public function dashboard() {
+        return view('dashboard');
+    }
 }

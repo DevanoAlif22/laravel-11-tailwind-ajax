@@ -1,0 +1,5 @@
+1. menggunakan tailwind css
+2. menggunakan ajax dan jquey
+3. menggunakan laravel brazee untuk login
+4. login google cloud console untuk mendapatkan credential
+5. menggunakan laravel socialite untuk login google
